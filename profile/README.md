@@ -1,4 +1,4 @@
-# Mapping Our Thought
+# Mapping Our Thoughts
 
 ## Who are we?
 Mapping Our Thoughts is a dedicated provider of C++ education, tutoring and 
